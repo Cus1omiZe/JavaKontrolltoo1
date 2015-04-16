@@ -50,7 +50,7 @@ public class Kysija
 	}
 	int askH()
 	{
-		System.out.println("\nValige valemi ja kirjutage a ja b asemel vaartused.\n1) y=ax^2\n2) y=ax^2+c\n3) y=ax^2+bx");
+		System.out.println("\nValige valemi ja kirjutage a ja b asemel vaartused.\n1) y=ax^2 2) y=ax^2+c 3) y=ax^2+bx");
 		h = in.nextInt();
 		return h;
 	}
